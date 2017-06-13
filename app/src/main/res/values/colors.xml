@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#009688</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#00796B</color>
+
+    <!-- Background color for the escape rooms category -->
+    <color name="category_escape_rooms">#2196F3</color>
+
+    <!-- Background color for the museums category -->
+    <color name="category_museums">#CDDC39</color>
+
+    <!-- Background color for the restaurants category -->
+    <color name="category_restaurants">#FF9800</color>
+
+    <!-- Background color for the ruinpubs category -->
+    <color name="category_ruinpubs">#F44336</color>
+</resources>

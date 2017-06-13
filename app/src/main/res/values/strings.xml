@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Budapest Tour Guide</string>
+
+    <!-- Category name for restaurants [CHAR LIMIT=20] -->
+    <string name="category_restaurants">Restaurants</string>
+
+    <!-- Category name for restaurants [CHAR LIMIT=20] -->
+    <string name="category_museums">Museums</string>
+
+    <!-- Category name for restaurants [CHAR LIMIT=20] -->
+    <string name="category_ruinpubs">Ruinpubs</string>
+
+    <!-- Category name for restaurants [CHAR LIMIT=20] -->
+    <string name="category_escape_rooms">Escape Rooms</string>
+
+    <string name="onyx">Onyx</string>
+    <string name="onyx_address">7&#8211;8 Vörösmarty Square</string>
+    <string name="megyeri_csarda_tavern">Megyeri Csárda Tavern</string>
+    <string name="megyeri_csarda_address">106 Váci Street</string>
+    <string name="fishermans_bastion">Fisherman’s Bastion</string>
+    <string name="fishermans_bastion_address">9 Zsolt Street</string>
+    <string name="museum_cafe_restaurant">Múzeum Café</string>
+    <string name="museum_cafe_address">12 Múzeum Street</string>
+    <string name="gundel">Gundel</string>
+    <string name="gundel_address">4 Gundel Károly Street</string>
+
+    <string name="history_museum">Budapest History Museum</string>
+    <string name="history_museum_address">2 Szent György Square</string>
+    <string name="house_of_terror_museum">House of Terror Museum</string>
+    <string name="house_of_terror_address">60 Andrássy Street</string>
+    <string name="hungarian_national_gallery">Hungarian National Gallery</string>
+    <string name="hungarian_national_gallery_address">2 Szent György Square</string>
+    <string name="museum_of_transportation">Museum of Transportation</string>
+    <string name="museum_of_transportation_address">20 Bem József Street</string>
+    <string name="hungarian_national_museum">Hungarian National Museum</string>
+    <string name="hungarian_national_museum_address">14&#8211;16 Múzeum Street</string>
+
+    <string name="szimpla_kert">Szimpla Kert</string>
+    <string name="szimpla_kert_address">14 Kazinczy Street</string>
+    <string name="instant">Instant</string>
+    <string name="instant_address">49&#8211;51 Akácfa Street</string>
+    <string name="kuplung">Kuplung</string>
+    <string name="kuplung_address">46 Király Street</string>
+    <string name="grandio">Grandio</string>
+    <string name="grandio_address">8 Nagy Diófa Street</string>
+    <string name="durer_kert">Dürer Kert</string>
+    <string name="durer_kert_address">19&#8211;21 Ajtósi Dürer Street</string>
+
+    <string name="trap">TRAP</string>
+    <string name="trap_address">20 Paulay Ede Street</string>
+    <string name="mystique_room">Mystique Room</string>
+    <string name="mystique_room_address">9 Szent István Street</string>
+    <string name="claustrophilia">Claustrophilia</string>
+    <string name="claustrophilia_address">8 Erzsébet Street</string>
+    <string name="locked_room_budapest">Locked Room Budapest</string>
+    <string name="locked_room_budapest_address">4 Székely Mihály Street</string>
+    <string name="logiqrooms">LogIQrooms</string>
+    <string name="logiqrooms_address">78 Wesselényi Street</string>
+
+
+</resources>
